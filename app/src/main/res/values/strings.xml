@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gato</string>
+    <string name="P1">Player 1</string>
+    <string name="P2">Player 2</string>
+    <string name="mensaje">Empate</string>
+    <string name="reset">Reiniciar</string>
+</resources>
